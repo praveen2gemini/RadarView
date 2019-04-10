@@ -1,0 +1,11 @@
+
+Ksquid:S2864Ô"4Iterate over the "entrySet" instead of the "keySet".(Í™
+<squid:S1659#"%Declare "mHeight" on a separate line.(¸÷‡Ù
+Csquid:S1659&",Declare "arcMarkerPaint" on a separate line.(å¹Œç
+Esquid:S1659&".Declare "pointMarkerPaint" on a separate line.(å¹Œç
+msquid:S1450#"VRemove the "mHeight" field and declare it as a local variable in the relevant methods.(¸÷‡Ù
+csquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ß¦ÙÎ
+csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(Ó£şŸ
+hsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(¬¾øÓıÿÿÿÿ
+csquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(Êø†ú
+\squid:S2583Ó"DChange this condition so that it does not always evaluate to "false"(ûĞ×¾
